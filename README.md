@@ -1,4 +1,4 @@
-## Summary Statistics of the Dataset (NON CGPA students excluded)
+# Summary Statistics of the Dataset (NON CGPA students excluded)
 
 | Statistic |    Value    |
 |:---------:|:-----------:|
@@ -12,7 +12,7 @@
 |    max    |  3.92   |
 
 
-## Counts of Student with respect to subject
+# Counts of Student with respect to subject
 | Subject | Count |
 |:---------:|:-------:|
 | PHYS    | 79    |
