@@ -1,14 +1,14 @@
-## Summary Statistics of the Dataset
+## Summary Statistics of the Dataset (NON CGPA students excluded
 
 | Statistic |    Value    |
 |:---------:|:-----------:|
 |   count   | 298         |
-|   mean    |  3.482013   |
-|    std    |  0.213058   |
-|    min    |  2.920000   |
-|    25%    |  3.340000   |
-|    50%    |  3.500000   |
-|    75%    |  3.640000   |
-|    max    |  3.920000   |
+|   mean    |  3.482   |
+|    std    |  0.213   |
+|    min    |  2.92   |
+|    25%    |  3.34   |
+|    50%    |  3.5   |
+|    75%    |  3.64   |
+|    max    |  3.92   |
 
 
