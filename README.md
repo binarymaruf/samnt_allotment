@@ -1,4 +1,4 @@
-## Summary Statistics of the Dataset (NON CGPA students excluded
+## Summary Statistics of the Dataset (NON CGPA students excluded)
 
 | Statistic |    Value    |
 |:---------:|:-----------:|
@@ -12,3 +12,15 @@
 |    max    |  3.92   |
 
 
+## Counts of Student with respect to subject
+| Subject | Count |
+|:---------:|:-------:|
+| PHYS    | 79    |
+| STAT    | 70    |
+| CHEM    | 52    |
+| LAW     | 49    |
+| ACHEM   | 34    |
+| IMS     | 33    |
+| FISH    | 30    |
+| OCNGR   | 26    |
+| MATH    | 24    |
