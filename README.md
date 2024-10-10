@@ -37,6 +37,7 @@
 |  Total  |    93     |    87     |    91     |    72     |    48     |     5     |     1     | 397   |  100    |
 |    %    | 23.42569  | 22.92191  | 21.91436  | 18.13602  | 12.09068  | 1.259446  | 0.251889  |   1   |  100    |
 
-
+# Visualization
+![Heatmap](https://github.com/binarymaruf/samnt_allotment/blob/main/samnt_heatmap.png)
 
 
