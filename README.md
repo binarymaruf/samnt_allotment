@@ -38,6 +38,18 @@
 |    %    | 23.42569  | 22.92191  | 21.91436  | 18.13602  | 12.09068  | 1.259446  | 0.251889  |   1   |  100    |
 
 # Visualization
+##### Heatmap of the table
 ![Heatmap](https://github.com/binarymaruf/samnt_allotment/blob/main/samnt_heatmap.png)
 
+##### Piechart representing the % of students from different subjects
+![Piechart](https://github.com/binarymaruf/samnt_allotment/blob/main/samnt_piechart.png)
+
+##### Boxplot representing the CGPA of students
+![Boxplot](https://github.com/binarymaruf/samnt_allotment/blob/main/samnt_boxplot.png)
+
+##### KDE 
+![KDE](https://github.com/binarymaruf/samnt_allotment/blob/main/samnt_kde.png)
+
+##### Piechart of NON-CG students 
+![Piechart](https://github.com/binarymaruf/samnt_allotment/blob/main/samnt_piechart_freshers.png)
 
